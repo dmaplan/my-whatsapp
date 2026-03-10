@@ -1,25 +1,17 @@
-# my-whatsapp
+# My WhatsApp
 
-A simple tool to integrate WhatsApp functionalities.
+A simple tool for managing WhatsApp messages.
 
 ## Features
 - Send messages
-- Receive messages
-- Manage contacts
+- Receive notifications
 
-## Tech Stack
+## Technical Stack
 - Node.js
-- Express
-- WebSocket
 
 ## Usage
-1. Install dependencies: `npm install`
-2. Run the application: `node app.js`
-3. Access the app at `http://localhost:3000`
+Follow the instructions in the README to set up and use this tool.
 
 ## Future Plans
-- Add support for multimedia messaging
-- Enhance user interface
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Add support for WhatsApp Web
+- Enhance UI/UX
